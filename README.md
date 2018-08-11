@@ -15,3 +15,7 @@ Here we use the Observer and Template patterns including hook methods.
 ## TrechoAereo
 
 To learn about Composite pattern, we implement this simple aerial excerpts.
+
+## Tratamentos
+
+All learned patterns together on one example.
